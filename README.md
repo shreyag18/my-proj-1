@@ -1,5 +1,5 @@
 INTRODUCTION TO MEMORY GAME :
-This is game built to test the player's memory. This game is built as a project for Front-End Web Developer Nanodegree offered by Udacity.  
+This is game built to test the player's memory. This game is built as a project for Google India Front-End Web Developer Nanodegree offered by Udacity and Google.  
 
 DESCRIPTION :
 Match cards in less time with less moves.
